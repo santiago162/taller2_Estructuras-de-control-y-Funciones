@@ -82,5 +82,5 @@ Para preguntas, sugerencias o para reportar problemas, por favor contáctanos en
 Gracias por considerar este proyecto. Esperamos que sirva como una herramienta de aprendizaje útil y como base para tus propias aplicaciones.
 
 ## 👨‍🏫 Autor
-Carlos Andrés Castro Jaramillo
-Instructor – Desarrollo de Software
+Santiago Caro Palacio
+Aprendiz  – Desarrollo de Software
