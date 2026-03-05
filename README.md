@@ -1,43 +1,49 @@
-# 🧠 Python Project: Library Management and Basic Applications
-This project encompasses a variety of Python applications, including a library management system, a simple calculator, age categorization, even number generation, and a shopping list system. Each component is designed to demonstrate fundamental programming concepts and can be used as building blocks for more complex applications. The library management system allows users to add, view, search, lend, and return books, while other components focus on basic user interaction, input validation, and numerical computations.
+# 🧠 Proyecto Python: Gestión de Biblioteca y Aplicaciones Básicas
 
-## 🚀 Features
-- Library Management System:
-  - Add new books
-  - View all books
-  - Search for books by title or author
-  - Lend and return books
-  - Remove books from the library
-- Simple Calculator (incomplete):
-  - Collects user's name, age, and city of residence
-  - Basic greeting message
-- Age Categorization:
-  - Categorizes a person's age into child, teenager, adult, or senior
-- Even Number Generation:
-  - Generates and prints all even numbers from 1 to a user-specified positive integer
-- Shopping List System:
-  - Add products to the list
-  - Remove specific products from the list
-  - Display all current products in the list
+Este proyecto abarca una variedad de aplicaciones en Python, que incluyen un sistema de gestión de biblioteca, una calculadora simple, categorización de edades, generación de números pares y un sistema de lista de compras. Cada componente está diseñado para demostrar conceptos fundamentales de programación y puede utilizarse como base para aplicaciones más complejas. El sistema de gestión de biblioteca permite a los usuarios agregar, visualizar, buscar, prestar y devolver libros, mientras que los demás componentes se enfocan en la interacción básica con el usuario, validación de entradas y cálculos numéricos.
 
-## 🛠️ Tech Stack
+## 🚀 Funcionalidades
+
+- **Sistema de Gestión de Biblioteca:**
+  - Agregar nuevos libros
+  - Ver todos los libros
+  - Buscar libros por título o autor
+  - Prestar y devolver libros
+  - Eliminar libros de la biblioteca
+- **Calculadora Simple (incompleta):**
+  - Recopila el nombre, edad y ciudad de residencia del usuario
+  - Mensaje de saludo básico
+- **Categorización de Edades:**
+  - Clasifica la edad de una persona como niño, adolescente, adulto o mayor
+- **Generación de Números Pares:**
+  - Genera e imprime todos los números pares del 1 hasta un número entero positivo especificado por el usuario
+- **Sistema de Lista de Compras:**
+  - Agregar productos a la lista
+  - Eliminar productos específicos de la lista
+  - Mostrar todos los productos actuales en la lista
+
+## 🛠️ Tecnologías Utilizadas
+
 - Python 3.x
-- Built-in Python features for input/output, data structures (lists, dictionaries), and control structures (if-elif-else, for loops, while loops)
-- No external libraries or frameworks are used
+- Funcionalidades integradas de Python para entrada/salida, estructuras de datos (listas, diccionarios) y estructuras de control (if-elif-else, bucles for, bucles while)
+- No se utilizan librerías ni frameworks externos
 
-## 📦 Installation
-To run this project, ensure you have Python 3.x installed on your system. There are no additional packages or libraries required for installation.
+## 📦 Instalación
 
-## 💻 Usage
-1. **Prerequisites**: Ensure Python 3.x is installed.
-2. **Running the Applications**:
-   - Library Management System: Execute `python biblioteca.py` from the `seccion6` directory.
-   - Simple Calculator: Execute `python 1.1.py` from the `Taller/seccion-1` directory.
-   - Age Categorization: Execute `python 2.1.py` from the `Taller/seccion-2` directory.
-   - Even Number Generation: Execute `python 3.1.py` from the `Taller/seccion-3` directory.
-   - Shopping List System: Execute `python 4.1.py` from the `Taller/seccion-4` directory.
+Para ejecutar este proyecto, asegúrate de tener Python 3.x instalado en tu sistema. No se requieren paquetes ni librerías adicionales.
 
-## 📂 Project Structure
+## 💻 Uso
+
+1. **Requisitos previos**: Asegúrate de tener Python 3.x instalado.
+2. **Ejecución de las aplicaciones**:
+   - Sistema de Gestión de Biblioteca: Ejecuta `python biblioteca.py` desde el directorio `seccion6`.
+   - Calculadora Simple: Ejecuta `python 1.1.py` desde el directorio `Taller/seccion-1`.
+   - Categorización de Edades: Ejecuta `python 2.1.py` desde el directorio `Taller/seccion-2`.
+   - Generación de Números Pares: Ejecuta `python 3.1.py` desde el directorio `Taller/seccion-3`.
+   - Sistema de Lista de Compras: Ejecuta `python 4.1.py` desde el directorio `Taller/seccion-4`.
+
+## 📂 Estructura del Proyecto
+
 ```
 seccion6/
 ├── biblioteca.py
@@ -57,18 +63,24 @@ Taller/
 README.md
 ```
 
-## 📸 Screenshots
+## 📸 Capturas de Pantalla
 
-## 🤝 Contributing
-Contributions are welcome. To contribute, please fork this repository, make your changes, and submit a pull request. Ensure your changes are well-documented and follow standard professional guidelines.
+## 🤝 Contribuciones
 
-## 📝 License
-This project is licensed under the MIT License. See LICENSE for details.
+Las contribuciones son bienvenidas. Para contribuir, por favor haz un fork de este repositorio, realiza tus cambios y envía un pull request. Asegúrate de que tus cambios estén bien documentados y sigan las pautas profesionales estándar.
 
-## 📬 Contact
-For questions, suggestions, or to report issues, please contact us at [your email address].
+## 📝 Licencia
 
-## 💖 Thanks Message
-Thank you for considering this project. We hope it serves as a useful learning tool and foundation for your own applications.
+Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
 
-This is written by [readme.ai](https://readme-generator-phi.vercel.app/)
+## 📬 Contacto
+
+Para preguntas, sugerencias o para reportar problemas, por favor contáctanos en [tu dirección de correo electrónico].
+
+## 💖 Agradecimientos
+
+Gracias por considerar este proyecto. Esperamos que sirva como una herramienta de aprendizaje útil y como base para tus propias aplicaciones.
+
+## 👨‍🏫 Autor
+Carlos Andrés Castro Jaramillo
+Instructor – Desarrollo de Software
